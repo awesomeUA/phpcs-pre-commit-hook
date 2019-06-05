@@ -13,7 +13,7 @@
             "PHPCodeChecker\\Installer": "src/"
         },
         "psr-0": {
-            "PHPCodeChecker\\Installer" : ""
+            "PHPCodeChecker\\Installer" : "src/"
         }
     },
     "require": {
