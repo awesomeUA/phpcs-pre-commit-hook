@@ -10,10 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "PHPCodeChecker\\Installer\\": "src/"
-        },
-        "psr-0": {
-            "PHPCodeChecker\\Installer" : "src/"
+            "PHPCodeChecker\\": "src/"
         }
     },
     "require": {
